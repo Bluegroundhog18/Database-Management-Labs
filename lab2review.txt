@@ -1,0 +1,27 @@
+10 pts
+
+1. 
+
+Good organization of screenshots.
+
+
+2.
+
+Sufficient knowledge of the terms primary key, candidate key, and superkey.
+
+
+3.
+
+Good example of datatypes and nulls.
+
+
+4.
+
+The ``first normal form'' rule (emphasis in the word FIRST) is not the same as
+the ``normal form rule''. Remember this, please.
+
+The ``all rows must be unique'' rule does not require any primary keys. Please
+check your class notes or Chapter 6.1 of the textbook.
+
+
+- Dr. Rivas
