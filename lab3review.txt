@@ -1,0 +1,39 @@
+9 pts
+
+Correct output for some queries
+Mostly correct SQL statements
+SQL statements are somewhat readable
+
+Recommendations: 
+ To improve your readability, write queries instead of this
+  select *
+  from products where city != 'Dallas' and city != 'Duluth' and priceUSD >= 1.00;
+ do it like this:
+  SELECT *
+  FROM products
+  WHERE city != 'Dallas' 
+    AND city != 'Duluth' 
+    AND priceUSD >= 1;
+
+
+
+8. List all data for orders in February less than US$500.
+
+Incorrect output
+- It seems like you did not read the correct instructions for this query. Read
+  it again, please.
+Correct SQL statement
+
+
+
+
+In general: 
+
+- Test all your SQL statements.
+
+- Make sure you read all the instructions for queries really well.
+
+
+
+
+- Dr. Rivas
