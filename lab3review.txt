@@ -33,6 +33,9 @@ In general:
 
 - Make sure you read all the instructions for queries really well.
 
+- You submitted a .rtf file, which is not a text file. I had to convert your
+  file to the desired format. Please check the file I created lab3.sql
+
 
 
 
