@@ -1,0 +1,38 @@
+9 pts
+
+Correct queries
+Correct SQL statements
+SQL statements are readable
+Correct output for some queries
+
+
+4. Get the ids of customers who ordered both product p01 and p07.
+
+Incorrect output
+- You did 'p01' twice?
+
+
+
+8. Tell me about check constraints: What are they? What are they good for? What
+is the advantage of putting that sort of thing inside the database? Make up
+some examples of good uses of check constraints and some examples of bad uses
+of check constraints. Explain the differences in your examples and argue your
+case.
+
+- You did not include -actual- check constraints examples, just descriptions of
+  them. 
+
+
+In general: 
+
+- Test all your SQL statements.
+
+- Make sure you read all the instructions for queries really well.
+
+- PLEASE only include your queries! You included a lot of other things. You
+  droped my tables when I ran your file! I am a bit upset about that.
+
+- Make sure your name is somewhere in the .sql file.
+
+
+- Dr. Rivas
